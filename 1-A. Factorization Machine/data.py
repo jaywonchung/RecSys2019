@@ -3,7 +3,7 @@ import numpy as np
 
 item_to_index = {}
 item_index_to_property = {}
-property_list = set()
+property_list = set()   # 157 many unique properties
 
 with open('../Dataset/item_metadata.csv', 'r') as f:
     reader = csv.reader(f)
@@ -20,5 +20,4 @@ with open('../Dataset/item_metadata.csv', 'r') as f:
                 
         index += 1
 
-print(property_list)
     
