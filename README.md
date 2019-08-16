@@ -16,6 +16,10 @@ A variant of the factorization machine is implemented and trained. Results are b
 
 ![Network architecture](Images/1C.png)
 
+The submission results of the methods above are as follows:
+
+![Submission results](Images/Submission Results.png)
+
 ## 2. Platform-based Feature Extraction
 
 A small study to find out the accommodation features each country especially prefer.
