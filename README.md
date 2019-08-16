@@ -10,17 +10,15 @@ A variant of the factorization machine is implemented and trained. Results are b
 
 ## 1-B. Neural Network
 
-![Network architecture](Images/1B.png)
+<img src=Images/1B.png width=300>
 
 ## 1-C. Custom Neural Network
 
-![Network architecture](Images/1C.png)
+<img src=Images/1C.png width=300>
 
+The submission results of the three methods above are as follows:
 
-The submission results of the methods above are as follows:
-
-![Submission results](Images/Submission_Results.png)
-
+<img src=Images/Submission_Results.png width=800>
 
 ## 2. Platform-based Feature Extraction
 
