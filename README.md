@@ -22,4 +22,4 @@ The submission results of the three methods above are as follows:
 
 ## 2. Platform-based Feature Extraction
 
-A small study to find out the accommodation features each country especially prefer.
+A small study to find the accommodation features each country especially prefer.
