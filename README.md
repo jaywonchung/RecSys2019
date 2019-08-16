@@ -18,7 +18,7 @@ A variant of the factorization machine is implemented and trained. Results are b
 
 The submission results of the methods above are as follows:
 
-![Submission results](Images/Submission Results.png)
+![Submission results](./Images/Submission\ Results.png)
 
 ## 2. Platform-based Feature Extraction
 
