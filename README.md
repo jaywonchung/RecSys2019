@@ -8,11 +8,11 @@ These are the codes written for the experiments on the RecSys 2019 challenge **T
 
 A variant of the factorization machine is implemented and trained. Results are barely better than the given baseline algorithm.
 
-## 1-B. Neural Network
+## 1-B. Simple Neural Network
 
 <img src=Images/1B.png width=300>
 
-## 1-C. Custom Neural Network
+## 1-C. Improved Neural Network
 
 <img src=Images/1C.png width=300>
 
