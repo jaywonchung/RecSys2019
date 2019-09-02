@@ -1,4 +1,5 @@
 *.pages
 *.pdf
+*.key
 .DS_STORE
 Dataset
